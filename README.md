@@ -1,2 +1,2 @@
-# project2
-THis is a demo for git and github
+# New Project
+This Project was created From local system.
